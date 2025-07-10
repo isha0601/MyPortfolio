@@ -20,7 +20,7 @@ const Hero = () => {
             <div className="relative inline-block">
               <img
                 // src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&crop=face"
-                src="/src/components/your_photo.jpg"
+                src="/src/components/yourphoto.jpg"
                 alt="Profile"
                 className="w-32 h-32 rounded-full mx-auto border-4 border-primary/30 hover-lift hover-glow animate-glow"
                 style={{ boxShadow: 'var(--shadow-elegant)' }}
