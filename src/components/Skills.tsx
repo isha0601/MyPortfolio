@@ -60,7 +60,7 @@ const Skills = () => {
     'Streamlit',
     'Web Development',
     'Full Stack Development',
-    'Vercel',
+    
 
     
   ];
